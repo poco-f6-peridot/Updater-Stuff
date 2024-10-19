@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1729116870,
-      "filename": "DerpFest-15-Official-Alpha-peridot-20241016.zip",
-      "id": "16f21b7767c6f3dc100218a6b0c2935e1dd3d9e02b910fd0f61680b34d477308",
-      "romtype": "Official",
-      "size": 3389443949,
-      "url": "https://sourceforge.net/projects/project-peridot/files/test-builds/DerpFest-15-Official-Alpha-peridot-20241016.zip/download",
+      "datetime": 1729369967,
+      "filename": "DerpFest-15-Community-Stable-peridot-20241019.zip",
+      "id": "0cc4e76d0474cef569e5395b22a36244b7d0712dbb2a273b7e1463410d519623",
+      "romtype": "Community",
+      "size": 3433054904,
+      "url": "https://sourceforge.net/projects/derpfest/files/peridot/DerpFest-15-Community-Stable-peridot-20241019.zip/download",
       "version": "15"
     }
   ]
